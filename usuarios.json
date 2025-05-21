@@ -1,0 +1,426 @@
+[
+    {
+        "usuario": "pedro",
+        "senha": "Pedro1",
+        "idade": 24,
+        "acessos": 4,
+        "materias": [
+            "TIC",
+            "Python",
+            "Sistemas da Informa\u00e7\u00e3o",
+            "Engenharia de Software"
+        ]
+    },
+    {
+        "usuario": "teste",
+        "senha": "Tes1",
+        "idade": 24,
+        "acessos": 0,
+        "materias": []
+    },
+    {
+        "usuario": "a",
+        "senha": "ads2A",
+        "idade": 21,
+        "acessos": 0,
+        "materias": []
+    },
+    {
+        "usuario": "aluno_01",
+        "senha": "Senha123",
+        "idade": 24,
+        "acessos": 5,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_02",
+        "senha": "Senha123",
+        "idade": 29,
+        "acessos": 3,
+        "materias": [
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_03",
+        "senha": "Senha123",
+        "idade": 21,
+        "acessos": 7,
+        "materias": [
+            "TIC",
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_04",
+        "senha": "Senha123",
+        "idade": 32,
+        "acessos": 2,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_05",
+        "senha": "Senha123",
+        "idade": 26,
+        "acessos": 6,
+        "materias": [
+            "Python",
+            "TIC",
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_06",
+        "senha": "Senha123",
+        "idade": 19,
+        "acessos": 1,
+        "materias": [
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_07",
+        "senha": "Senha123",
+        "idade": 22,
+        "acessos": 4,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica",
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_08",
+        "senha": "Senha123",
+        "idade": 35,
+        "acessos": 0,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_09",
+        "senha": "Senha123",
+        "idade": 30,
+        "acessos": 9,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_10",
+        "senha": "Senha123",
+        "idade": 20,
+        "acessos": 2,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_11",
+        "senha": "Senha123",
+        "idade": 28,
+        "acessos": 3,
+        "materias": [
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_12",
+        "senha": "Senha123",
+        "idade": 18,
+        "acessos": 5,
+        "materias": [
+            "TIC",
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_13",
+        "senha": "Senha123",
+        "idade": 27,
+        "acessos": 6,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_14",
+        "senha": "Senha123",
+        "idade": 33,
+        "acessos": 2,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_15",
+        "senha": "Senha123",
+        "idade": 31,
+        "acessos": 7,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o",
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_16",
+        "senha": "Senha123",
+        "idade": 23,
+        "acessos": 1,
+        "materias": [
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_17",
+        "senha": "Senha123",
+        "idade": 25,
+        "acessos": 8,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_18",
+        "senha": "Senha123",
+        "idade": 36,
+        "acessos": 4,
+        "materias": [
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_19",
+        "senha": "Senha123",
+        "idade": 20,
+        "acessos": 2,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_20",
+        "senha": "Senha123",
+        "idade": 38,
+        "acessos": 5,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_21",
+        "senha": "Senha123",
+        "idade": 22,
+        "acessos": 3,
+        "materias": [
+            "Python",
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_22",
+        "senha": "Senha123",
+        "idade": 39,
+        "acessos": 6,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_23",
+        "senha": "Senha123",
+        "idade": 34,
+        "acessos": 0,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_24",
+        "senha": "Senha123",
+        "idade": 21,
+        "acessos": 1,
+        "materias": [
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_25",
+        "senha": "Senha123",
+        "idade": 37,
+        "acessos": 4,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_26",
+        "senha": "Senha123",
+        "idade": 19,
+        "acessos": 7,
+        "materias": [
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_27",
+        "senha": "Senha123",
+        "idade": 23,
+        "acessos": 2,
+        "materias": [
+            "Python",
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_28",
+        "senha": "Senha123",
+        "idade": 30,
+        "acessos": 6,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_29",
+        "senha": "Senha123",
+        "idade": 40,
+        "acessos": 3,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_30",
+        "senha": "Senha123",
+        "idade": 26,
+        "acessos": 2,
+        "materias": [
+            "TIC",
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_31",
+        "senha": "Senha123",
+        "idade": 27,
+        "acessos": 5,
+        "materias": [
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_32",
+        "senha": "Senha123",
+        "idade": 18,
+        "acessos": 3,
+        "materias": [
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_33",
+        "senha": "Senha123",
+        "idade": 24,
+        "acessos": 6,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica",
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_34",
+        "senha": "Senha123",
+        "idade": 20,
+        "acessos": 1,
+        "materias": [
+            "Python",
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "aluno_35",
+        "senha": "Senha123",
+        "idade": 32,
+        "acessos": 0,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "aluno_36",
+        "senha": "Senha123",
+        "idade": 28,
+        "acessos": 2,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_37",
+        "senha": "Senha123",
+        "idade": 35,
+        "acessos": 7,
+        "materias": [
+            "TIC",
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_38",
+        "senha": "Senha123",
+        "idade": 33,
+        "acessos": 4,
+        "materias": [
+            "Sistemas da Informa\u00e7\u00e3o",
+            "Python"
+        ]
+    },
+    {
+        "usuario": "aluno_39",
+        "senha": "Senha123",
+        "idade": 29,
+        "acessos": 2,
+        "materias": [
+            "Matem\u00e1tica e Estat\u00edstica"
+        ]
+    },
+    {
+        "usuario": "aluno_40",
+        "senha": "Senha123",
+        "idade": 25,
+        "acessos": 3,
+        "materias": [
+            "TIC"
+        ]
+    },
+    {
+        "usuario": "marcia",
+        "senha": "Marcia3",
+        "idade": 26,
+        "acessos": 1,
+        "materias": [
+            "Python",
+            "Sistemas da Informa\u00e7\u00e3o"
+        ]
+    },
+    {
+        "usuario": "sergio",
+        "senha": "123Abc",
+        "idade": 26,
+        "acessos": 0,
+        "materias": []
+    }
+]
