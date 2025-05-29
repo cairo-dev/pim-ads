@@ -52,7 +52,7 @@ Para rodar o sistema:
 
 1. Instale o Python 3.x em seu computador
 2. Clone este repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio
+   git clone https://github.com/cairo-dev/pim-ads
 3. Execute o script:
    python main.py
 
